@@ -4,7 +4,7 @@ I’m a software engineer who’s passionate about full-stack development and al
 
 * 💻 Software Engineering Immersive Resident at Galvanize / Hack Reactor
 * 📍San Diego, CA
-* 🙆🏻‍♀️ he/him/his
+* 🙋 he/him/his
 <a href="https://www.linkedin.com/in/jianquan-carson-liu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
