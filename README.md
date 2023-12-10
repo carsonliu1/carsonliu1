@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Carson Liu 🙋</h1>
-<h3 align="center">A passionate full stack developer tackling new challenges.</h3>
+<h1 align="center">Hi, I'm Carson Liu </h1>
 
-* 💻 Software Engineering Immersive Resident at Galvanize / Hack Reactor
 * 💬 Ask me about **my cats**
 * 📍San Diego, CA
 
